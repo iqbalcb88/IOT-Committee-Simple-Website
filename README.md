@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# Internet of things(IOT) Proposed Committee
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Please click to [Visit Site](https://iot-committee-by-iqbal.netlify.app/).
 
 ## Available Scripts
 
-In the project directory, you can run:
+- This website is about an imaginary iot committee.
+- This website is to elect any one from nominees and create a board committee.
+- Language: JavaScript,CSS:Toolkit: Font Awesome:Framework: React BootstrapFramework: React Bootstrap:Library: React
 
 ### `npm start`
 

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "12345sfsdf6987",
+    "name": "Jhankar Mahbub",
+    "age": 32,
+    "salary": 500000,
+    "skills": "JavaScript, ES6, React, Redux, Angular6",
+    "quality": "Author,Entrepreneur,Teacher",
+    "achievement": "Programming Hero",
+    "nationality": "Bangladesh",
+    "img": "https://i.ibb.co/6Nmp3Z6/jhankar.png"
+  },
+  {
+    "id": "466463as4df65",
+    "name": "Mark Elliot Zuckerberg",
+    "age": 37,
+    "salary": 179100000,
+    "skills": "C,C++,AI",
+    "quality": "Equanimity,Critical thinking",
+    "achievement": "Facebook Inc",
+    "nationality": "America",
+    "img": "https://i.ibb.co/28YmGPr/zukerberg.png"
+  },
+  {
+    "id": "1634561432sdfsa4",
+    "name": "Bjarne Stroustrup",
+    "age": 70,
+    "salary": 541212,
+    "skills": "Machine Language,High level language,",
+    "quality": "Invent C++",
+    "achievement": "C++",
+    "nationality": "Danish",
+    "img": "https://i.ibb.co/WP0MBtq/bjarne.png"
+  },
+  {
+    "id": "",
+    "name": "Brendan Eich",
+    "age": 60,
+    "salary": 1258000,
+    "skills": " C, C++, JavaScript",
+    "quality": "Invent JavaScript, Mozilla, NetScape",
+    "achievement": "JavaScript",
+    "nationality": "America",
+    "img": "https://i.ibb.co/KrptpPf/Brendan-Eich.png"
+  },
+  {
+    "id": "41s6df44sa3df13as",
+    "name": "Elon Reeve Musk",
+    "age": 50,
+    "salary": 7000000,
+    "skills": "Basic,C,C++",
+    "quality": "Tesla, SpaceX,GPT-3,IOT",
+    "achievement": "SpaceX",
+    "nationality": "South Africa",
+    "img": "https://i.ibb.co/GW3BVcG/elonmusk.png"
+  },
+  {
+    "id": "16465fdas64wer3",
+    "name": "Tim Berners-Lee",
+    "age": 66,
+    "salary": 5500000,
+    "skills": "Computer Scientist",
+    "quality": "inventor of the World Wide Web",
+    "achievement": "www",
+    "nationality": "British",
+    "img": "https://i.ibb.co/DGBKH58/bernerslee.png"
+  },
+  {
+    "id": "13sad4f68e13c21z646a",
+    "name": "Brian Kernighan",
+    "age": 79,
+    "salary": 9856231,
+    "skills": "Canadian computer scientist",
+    "quality": " Unix, AWK, AMPL, Kernighan–Lin algorithm",
+    "achievement": "C Programming",
+    "nationality": "Canada",
+    "img": "https://i.ibb.co/chGNVpP/Brian-Kernighan.png"
+  }
+]

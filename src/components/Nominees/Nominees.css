@@ -1,0 +1,66 @@
+.candidates-style {
+  background-color: rgba(0, 255, 255, 0.9);
+  margin: 20px;
+  padding: 15px 5px;
+  border-radius: 15px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+    rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  color: rgb(18, 19, 19);
+}
+.nominees-container {
+  /* border-right: 1px solid rgb(197, 194, 194); */
+  margin: 0 5px 0 50px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+}
+.candidates-container {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  padding-right: 5px;
+}
+.card-style {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+}
+.card-body {
+  border-bottom: 1px solid lightgray;
+  margin: 10px 0;
+}
+.cart-img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 2px solid lightgray;
+  margin-right: 20px;
+}
+.card-img {
+  width: 275px;
+}
+.member-card {
+  display: flex;
+  padding: 5px;
+  border-radius: 15px;
+  align-items: center;
+  margin: 20px;
+  background-color: slateblue;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+    rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.header-style {
+  background-color: rgba(17, 19, 46, 0.5);
+  color: #fff;
+  padding: 20px 0;
+}
+.selected-candidates {
+  background-color: rgba(3, 3, 3, 0.342);
+  color: white;
+}
+.cart-header {
+  border: 2px solid lightcoral;
+  padding: 10px;
+  background-color: #2e2e2e;
+}
