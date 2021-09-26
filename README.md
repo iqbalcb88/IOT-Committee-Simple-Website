@@ -6,7 +6,7 @@ Please click to [Visit Site](https://iot-committee-by-iqbal.netlify.app/).
 
 - This website is about an imaginary iot committee.
 - This website is to elect any one from nominees and create a board committee.
-- Language: JavaScript,CSS:Toolkit: Font Awesome:Framework: React BootstrapFramework: React Bootstrap:Library: React
+- Language: JavaScript CSS,Toolkit:Font Awesome,Framework:React BootstrapFramework,Library: React.
 
 ### `npm start`
 
